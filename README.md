@@ -51,7 +51,7 @@ The following section shows the certification I have taken to gain experience in
 
 <p align="center">
 Certifications: <br/>
-<img src="https://imgur.com/RlUFXjZ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Qn0Typr.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
@@ -62,7 +62,7 @@ Enter the number of passes: <br/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="https://imgur.com/Qn0Typr.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
 </p>
