@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 ,💡Cybersecurity Projects:</h2> 
 
-<h2>As a reminder, audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. :</h2>
+<h2>As a reminder, audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets:</h2>
 
 
 
