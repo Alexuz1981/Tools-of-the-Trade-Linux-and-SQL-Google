@@ -27,7 +27,7 @@ My task is to review the IT manager’s scope, goals, and risk assessment report
 
 <img src="https://imgur.com/RLyNO8B.png" height="70%" width="70%" alt=/>
 
-<img src="https://imgur.com/kH8xnRI.png" height="70%" width="70%" alt=/>
+<img src="https://imgur.com/TEjPQWy.png" height="70%" width="70%" alt=/>
 
 <img src="https://imgur.com/2sFRtTI.png" height="70%" width="70%" alt=/>
 
