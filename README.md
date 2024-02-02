@@ -33,18 +33,7 @@ My task is to review the IT manager’s scope, goals, and risk assessment report
 
 <img src="https://imgur.com/ErycoMC.png" height="70%" width="70%" alt=/>
 
-<img src="https://imgur.com/Swy5wK0.png" height="70%" width="70%" alt=/>
-
-<img src="https://imgur.com/q6ShEXI.png" height="70%" width="70%" alt=/>
-
-<img src="https://imgur.com/F53y8dc.png" height="70%" width="70%" alt=/>
-
-
-
-
-<h1>Google Course Certification</h1>
-
-
+</h1>Google Course Certification</h1>
 
 <h2>Description</h2>
 The following section shows the certification I have taken to gain experience in the field of Cybersecurity Analyst. 
