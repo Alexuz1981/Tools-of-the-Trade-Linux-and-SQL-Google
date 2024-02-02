@@ -4,10 +4,11 @@
 
 <h2>👨‍💻 ,💡Cybersecurity Projects:</h2> 
 
-<h2>The following scenario describes how an Internal Security Audit is done:</h2>
+<h2>As a reminder, audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. :</h2>
 
-Audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. 
-Scenario
+
+
+
 
 This scenario is based on a fictional company:
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as its main office, a storefront, and a warehouse for its products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
